@@ -1,0 +1,25 @@
+.infiniteScrollbar{
+    overflow:auto;
+    height:450px;
+}
+.infiniteScrollbar::-webkit-scrollbar{
+    display:none;
+}
+.errorImg{
+    margin-bottom: 15px;
+}
+.headerText{ 
+    font-size: 27px;
+    font-family:"Arial, Helvetica, sans-serif";
+}
+.normalText{ 
+    font-family:"Arial, Helvetica, sans-serif"; 
+}
+.spotifyButton{
+    background-color: #1DB954 !important;
+    color:white !important;
+    border:none !important;
+    border-radius: 10px;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
